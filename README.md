@@ -25,6 +25,7 @@ Logging: Logs chat messages and user activity.
 The application's default users:
 
 Username | Password
+
 dima | please
 
 zak | give
