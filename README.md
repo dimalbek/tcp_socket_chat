@@ -26,9 +26,13 @@ The application's default users:
 
 Username | Password
 dima | please
+
 zak | give
+
 nur | me
+
 nusupoff | full
+
 ansar | points
 
 ## **Installation and setup**
